@@ -1,0 +1,13 @@
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\bin\Debug\netcoreapp3.1\Unipro-Nhom7.exe
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\bin\Debug\netcoreapp3.1\Unipro-Nhom7.deps.json
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\bin\Debug\netcoreapp3.1\Unipro-Nhom7.runtimeconfig.json
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\bin\Debug\netcoreapp3.1\Unipro-Nhom7.runtimeconfig.dev.json
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\bin\Debug\netcoreapp3.1\Unipro-Nhom7.dll
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\bin\Debug\netcoreapp3.1\Unipro-Nhom7.pdb
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.csprojAssemblyReference.cache
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.AssemblyInfoInputs.cache
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.AssemblyInfo.cs
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.csproj.CoreCompileInputs.cache
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.dll
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.pdb
+C:\Users\Anh Hin\Documents\Unipro-Nhom7\Unipro-Nhom7\obj\Debug\netcoreapp3.1\Unipro-Nhom7.genruntimeconfig.cache
